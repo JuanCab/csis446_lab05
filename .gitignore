@@ -1,0 +1,4 @@
+# Ignore any files or directories starting with a number
+[0-9]*
+notebook_SOLUTION.ipynb
+coffee.csv
